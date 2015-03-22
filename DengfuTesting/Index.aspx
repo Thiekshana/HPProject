@@ -5,7 +5,7 @@
         <asp:Label ID="lblSession" runat="server" Text="Welcome"></asp:Label>
 </p>
     <div class="jumbotron">
-        <h1>Update Overall List &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h1>
+        <h1>Update Overall List Sux</h1>
         <p>
             <table style="width:100%;">
                 <tr>
