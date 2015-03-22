@@ -9,7 +9,7 @@
         <p>
             <table style="width:100%;">
                 <tr>
-                    <td>ItemName</td>
+                    <td>ItemNames</td>
                     <td>Qty</td>
                     <td>&nbsp;</td>
                     <td>Remarks</td>
