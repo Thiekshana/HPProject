@@ -20,6 +20,7 @@
         if (confirm("Are you sure you want to add "+ x+"?"+  '\n' + "Confirm?"))
             {   
             confirmss.value = "Yes";
+            return confirmss;
             }
             else   
             {   
